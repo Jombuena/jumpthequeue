@@ -1,0 +1,5 @@
+package com.cap.jumpthequeue.visitormanagement.dataaccess.api;
+
+public class VisitorEntity {
+
+}

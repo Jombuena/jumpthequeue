@@ -1,0 +1,11 @@
+package com.cap.jumpthequeue.visitormanagement.dataaccess.api;
+
+public class VisitorEntity {
+  private String name;
+
+  private String email;
+
+  private String phone;
+
+  private AccessCodeEntity code;
+}

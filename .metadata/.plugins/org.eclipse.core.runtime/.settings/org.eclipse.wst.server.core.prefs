@@ -1,0 +1,4 @@
+#Fri Nov 10 15:09:11 CET 2017
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Apache Tomcat v8.0" location\="C\:\\Users\\jombuena\\Desktop\\Devon\\Devon-dist_2.2.0/software/tomcat" name\="Apache Tomcat v8.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.80" timestamp\="0"/>\r\n</runtimes>\r\n

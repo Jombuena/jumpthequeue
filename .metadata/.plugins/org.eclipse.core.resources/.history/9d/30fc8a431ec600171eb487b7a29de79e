@@ -1,0 +1,9 @@
+package com.cap.jumpthequeue.accesscodemanagement.dataaccess.api;
+
+/**
+ * @author Jombuena
+ *
+ */
+public class AccessCodeEntity {
+
+}

@@ -1,0 +1,9 @@
+package com.cap.jumpthequeue.visitormanagement.dataaccess.api;
+
+/**
+ * @author Jombuena
+ *
+ */
+public class VisitorEntity {
+
+}

@@ -1,0 +1,16 @@
+AbstractTextEditor.Color.Foreground=58,68,69
+AbstractTextEditor.Color.SelectionForeground=90,103,103
+currentLineColor=52,67,67
+eclipse.preferences.version=1
+lineNumberColor=0,128,0
+lineNumberRuler=true
+net.sf.eclipsecs.warning.color=255,255,0
+net.sf.eclipsecs.warning.text.style=NONE
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginColumn=120
+spacesForTabs=true
+spellingEnabled=true
+tabWidth=2
+textDragAndDropEnabled=false
+warningIndicationColor=255,255,0

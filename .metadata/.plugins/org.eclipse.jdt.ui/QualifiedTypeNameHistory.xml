@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="com.cap.jumpthequeue.accesscodemanagement.logic.api.to.AccessCodeEto"/>
+<fullyQualifiedTypeName name="net.sf.mmm.util.search.api.SearchCriteria"/>
+<fullyQualifiedTypeName name="com.cap.jumpthequeue.visitormanagement.logic.api.to.VisitorCto"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
